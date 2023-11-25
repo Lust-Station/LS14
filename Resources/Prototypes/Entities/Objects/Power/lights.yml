@@ -85,7 +85,7 @@
   components:
   - type: LightBulb
     bulb: Bulb
-    color: "#ECBCC6" # 4000K color temp
+    color: "#FFD1A3" # 4000K color temp
     lightEnergy: 1.0
     lightRadius: 6
     lightSoftness: 1.1
@@ -108,7 +108,7 @@
   description: A light fixture.
   components:
   - type: LightBulb
-    color: "#FFAAF5" # 5000K color temp
+    color: "#FFE4CE" # 5000K color temp
     lightEnergy: 0.8
     lightRadius: 10
     lightSoftness: 1
@@ -131,7 +131,7 @@
   id: LedLightTube
   components:
   - type: LightBulb
-    color: "#EFC6FC"
+    color: "#EEEEFF"
     lightEnergy: 1
     lightRadius: 15
     lightSoftness: 0.9
